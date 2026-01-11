@@ -1,0 +1,301 @@
+Order ID,Order Date,Customer Name,City,Sales Amount,Profit,Quantity,Sales Channel,Order Status,Payment Mode,Customer Rating
+ORD1,2024-3-19,Customer 1,MUMBAI,,,,Partner,Pending,COD,1
+ORD2,2024-8-1,Customer 2,MUMBAI,,2976,,Partner,Cancelled,EMI,1
+ORD3,2024-6-1,Customer 3,Pune,,2435,,Online,Pending,UPI,5
+ORD4,2024-4-25,Customer 4,Bangalore,,,,Online,Pending,Credit Card,1
+ORD5,2024-7-27,Customer 5,Hyderabad,3776,,5,Partner,Returned,EMI,4
+ORD6,2024-9-27,Customer 6, pune,,,,Offline,Delivered,Debit Card,2
+,2024-12-26,Customer 7,Bangalore,,,,Partner,Returned,UPI,4
+ORD8,2024-11-17,Customer 8,Pune,,,,Partner,Delivered,Debit Card,1
+ORD9,2024-5-23,Customer 9,MUMBAI,,,3,Partner,Cancelled,UPI,
+ORD10,2024-4-18,Customer 10,MUMBAI,18467,,,Offline,Pending,Credit Card,
+ORD11,2024-9-20,, pune,,,9,Partner,Cancelled,Debit Card,1
+ORD12,2024-8-28,Customer 12,Delhi,,,,Offline,Pending,Credit Card,1
+ORD13,2024-9-18,Customer 13,Hyderabad,,2914,,Online,Cancelled,UPI,
+,2024-9-26,Customer 14,MUMBAI,8865,,2,Online,Pending,UPI,
+ORD15,2024-5-8,Customer 15,Delhi,,,5,Online,Cancelled,Credit Card,5
+ORD16,2024-3-22,Customer 16,Delhi,,,,Online,Delivered,Credit Card,4
+ORD17,2024-6-14,Customer 17,MUMBAI,,,9,Partner,Pending,UPI,2
+ORD18,2024-1-13,Customer 18,Mumbai,,,,Offline,Cancelled,EMI,4
+ORD19,2024-4-17,Customer 19, pune,,,,Partner,Pending,UPI,
+ORD20,2024-5-5,Customer 20,Mumbai,,-1421,,Partner,Cancelled,Debit Card,5
+,2024-5-5,Customer 21,Pune,18873,2838,,Online,Delivered,Debit Card,2
+ORD22,2024-6-4,,Mumbai,,,,Online,Pending,Credit Card,5
+ORD23,2024-8-1,Customer 23,Delhi,,-1852,,Partner,Cancelled,Credit Card,4
+ORD24,2024-4-9,Customer 24, pune,,,,Partner,Cancelled,UPI,
+ORD25,2024-1-3,Customer 25,Mumbai,6060,2409,,Partner,Returned,Credit Card,3
+ORD26,2024-6-4,Customer 26,Delhi,,,8,Partner,Delivered,Credit Card,1
+ORD27,2024-7-3,Customer 27,Bangalore,5327,792,,Offline,Delivered,EMI,5
+,2024-4-19,Customer 28,Pune,,,9,Offline,Returned,UPI,
+ORD29,2024-1-27,Customer 29,Delhi,,3492,,Online,Delivered,COD,2
+ORD30,2024-10-14,Customer 30,Mumbai,,,4,Partner,Delivered,Debit Card,4
+ORD31,2024-9-27,Customer 31,Delhi,,,6,Online,Returned,UPI,1
+ORD32,2024-1-26,Customer 32,Delhi,,,7,Online,Returned,EMI,4
+ORD33,2024-2-9,,Mumbai,,,,Online,Cancelled,Credit Card,2
+ORD34,2024-4-12,Customer 34,Pune,9700,,,Partner,Returned,COD,4
+,2024-5-2,Customer 35,Delhi,,,5,Offline,Delivered,EMI,5
+ORD36,2024-10-26,Customer 36,Hyderabad,3516,-197,,Online,Returned,EMI,
+ORD37,2024-2-24,Customer 37,Pune,,,,Offline,Cancelled,UPI,5
+ORD38,2024-6-3,Customer 38,Hyderabad,6176,4358,,Offline,Delivered,EMI,
+ORD39,2024-10-10,Customer 39,Mumbai,7274,,,Partner,Cancelled,COD,3
+ORD40,2024-7-18,Customer 40,Mumbai,,3470,5,Partner,Pending,Debit Card,5
+ORD41,2024-5-18,Customer 41,Bangalore,,,6,Offline,Pending,UPI,
+,2024-11-14,Customer 42,Hyderabad,1119,,10,Partner,Cancelled,COD,3
+ORD43,2024-5-13,Customer 43,Hyderabad,13642,3017,,Online,Cancelled,EMI,3
+ORD44,2024-9-21,,Bangalore,7896,,8,Partner,Pending,Credit Card,5
+ORD45,2024-10-24,Customer 45, pune,,-203,,Partner,Returned,COD,5
+ORD46,2024-4-10,Customer 46,Delhi,,1044,,Online,Delivered,EMI,5
+ORD47,2024-10-13,Customer 47,Mumbai,,1495,,Online,Pending,Debit Card,
+ORD48,2024-11-12,Customer 48,Bangalore,17377,,,Online,Returned,UPI,3
+,2024-12-3,Customer 49,Mumbai,,4971,,Offline,Cancelled,Credit Card,4
+ORD50,2024-3-20,Customer 50,Bangalore,7447,,,Online,Returned,Credit Card,2
+ORD51,2024-7-24,Customer 51,Hyderabad,631,,10,Online,Cancelled,Credit Card,2
+ORD52,2024-3-10,Customer 52,Mumbai,18271,,,Partner,Pending,COD,5
+ORD53,2024-6-16,Customer 53,Bangalore,4491,,,Online,Delivered,UPI,5
+ORD54,2024-12-1,Customer 54,Hyderabad,,,3,Partner,Returned,EMI,
+ORD55,2024-5-14,,Hyderabad,,651,,Partner,Pending,Credit Card,3
+,2024-9-13,Customer 56,Delhi,,,,Online,Delivered,Credit Card,
+ORD57,2024-10-24,Customer 57, pune,17243,,,Partner,Returned,COD,4
+ORD58,2024-10-22,Customer 58,Hyderabad,,2310,,Offline,Pending,Credit Card,
+ORD59,2024-10-19,Customer 59, pune,,4109,,Online,Pending,COD,
+ORD60,2024-7-26,Customer 60,Delhi,6337,,,Offline,Pending,EMI,3
+ORD61,2024-3-15,Customer 61,MUMBAI,,,9,Offline,Delivered,EMI,4
+ORD62,2024-2-12,Customer 62,Pune,14999,,,Online,Pending,Credit Card,5
+,2024-5-7,Customer 63,Hyderabad,7306,,2,Partner,Returned,Debit Card,5
+ORD64,2024-9-24,Customer 64,Pune,,,,Offline,Cancelled,Debit Card,5
+ORD65,2024-7-6,Customer 65,Bangalore,,,,Partner,Cancelled,UPI,
+ORD66,2024-10-13,,Delhi,14648,,4,Partner,Cancelled,EMI,4
+ORD67,2024-10-24,Customer 67,Mumbai,,2313,3,Partner,Pending,Credit Card,3
+ORD68,2024-7-8,Customer 68,Pune,,,2,Online,Pending,Credit Card,4
+ORD69,2024-2-6,Customer 69,Pune,,-1810,,Partner,Pending,Credit Card,
+,2024-5-4,Customer 70,Hyderabad,6158,,,Offline,Pending,COD,2
+ORD71,2024-4-27,Customer 71,Delhi,,,,Partner,Returned,Credit Card,4
+ORD72,2024-10-4,Customer 72,Mumbai,3083,-1874,,Offline,Returned,COD,4
+ORD73,2024-3-27,Customer 73,MUMBAI,5489,,,Partner,Delivered,EMI,4
+ORD74,2024-5-5,Customer 74,Pune,,,1,Partner,Delivered,EMI,
+ORD75,2024-3-2,Customer 75,Delhi,,-1255,,Partner,Cancelled,Credit Card,
+ORD76,2024-4-22,Customer 76,Bangalore,,,,Partner,Cancelled,COD,1
+,2024-10-26,,Hyderabad,,,,Partner,Delivered,Credit Card,5
+ORD78,2024-7-18,Customer 78,Mumbai,,3426,,Partner,Delivered,Credit Card,2
+ORD79,2024-2-5,Customer 79,Pune,,4980,,Online,Pending,EMI,3
+ORD80,2024-2-11,Customer 80,Pune,,,,Partner,Pending,UPI,
+ORD81,2024-9-9,Customer 81,Pune,,,,Online,Returned,Credit Card,
+ORD82,2024-3-9,Customer 82,MUMBAI,12957,,,Online,Cancelled,Credit Card,3
+ORD83,2024-9-26,Customer 83,Bangalore,,-1143,,Partner,Delivered,Credit Card,
+,2024-3-7,Customer 84,Delhi,,656,,Online,Delivered,UPI,3
+ORD85,2024-11-18,Customer 85,Delhi,,,,Partner,Delivered,EMI,1
+ORD86,2024-3-11,Customer 86, pune,,2694,,Offline,Pending,Credit Card,
+ORD87,2024-7-27,Customer 87,Pune,19471,-898,,Partner,Returned,COD,
+ORD88,2024-10-24,,Delhi,,,,Partner,Returned,EMI,5
+ORD89,2024-3-1,Customer 89,Mumbai,,,3,Online,Pending,EMI,1
+ORD90,2024-2-18,Customer 90, pune,,-1124,5,Partner,Delivered,UPI,
+,2024-4-21,Customer 91,MUMBAI,,1539,,Offline,Returned,COD,2
+ORD92,2024-10-16,Customer 92,MUMBAI,,,,Online,Pending,UPI,
+ORD93,2024-5-14,Customer 93,Mumbai,,,,Online,Pending,EMI,5
+ORD94,2024-10-19,Customer 94,Bangalore,,,1,Offline,Delivered,EMI,1
+ORD95,2024-5-17,Customer 95, pune,,,,Partner,Pending,EMI,
+ORD96,2024-9-14,Customer 96,Hyderabad,,,,Offline,Cancelled,EMI,
+ORD97,2024-3-9,Customer 97, pune,,,10,Offline,Pending,Debit Card,3
+,2024-11-25,Customer 98, pune,1100,-1263,,Offline,Returned,Credit Card,
+ORD99,2024-12-28,,Bangalore,,1736,,Online,Pending,COD,1
+ORD100,2024-3-27,Customer 100,Delhi,12550,,,Partner,Returned,Debit Card,
+ORD101,2024-5-14,Customer 101,Delhi,16418,,,Offline,Delivered,UPI,2
+ORD102,2024-4-5,Customer 102,Mumbai,1356,74,8,Offline,Cancelled,UPI,1
+ORD103,2024-7-20,Customer 103,Pune,18509,,6,Partner,Delivered,EMI,
+ORD104,2024-7-27,Customer 104, pune,,,,Partner,Delivered,COD,
+,2024-11-3,Customer 105,MUMBAI,13270,,,Partner,Pending,Debit Card,1
+ORD106,2024-10-28,Customer 106,Bangalore,3967,,4,Partner,Returned,Debit Card,
+ORD107,2024-9-10,Customer 107,MUMBAI,,,,Offline,Pending,UPI,1
+ORD108,2024-12-22,Customer 108,Delhi,9266,,,Online,Cancelled,EMI,3
+ORD109,2024-5-23,Customer 109,Mumbai,13988,,,Partner,Delivered,EMI,
+ORD110,2024-10-17,,Mumbai,,,,Offline,Cancelled,Debit Card,3
+ORD111,2024-10-16,Customer 111,Mumbai,11588,2962,,Offline,Cancelled,UPI,5
+,2024-6-17,Customer 112, pune,,4237,,Offline,Pending,Credit Card,1
+ORD113,2024-3-5,Customer 113, pune,8903,,,Online,Cancelled,UPI,2
+ORD114,2024-10-7,Customer 114,Hyderabad,,,6,Online,Returned,EMI,2
+ORD115,2024-2-24,Customer 115,Mumbai,,,,Partner,Pending,UPI,1
+ORD116,2024-6-12,Customer 116,Mumbai,,4307,10,Offline,Delivered,UPI,
+ORD117,2024-2-10,Customer 117,Delhi,,2338,6,Online,Cancelled,Debit Card,3
+ORD118,2024-12-21,Customer 118, pune,8431,,5,Partner,Returned,UPI,3
+,2024-11-24,Customer 119,MUMBAI,,,,Partner,Pending,EMI,4
+ORD120,2024-9-13,Customer 120,Delhi,,,3,Partner,Delivered,COD,2
+ORD121,2024-4-14,,Delhi,18389,,,Offline,Pending,COD,4
+ORD122,2024-12-4,Customer 122, pune,12738,,,Partner,Delivered,EMI,3
+ORD123,2024-8-22,Customer 123,Mumbai,5604,2745,,Offline,Returned,Credit Card,2
+ORD124,2024-3-28,Customer 124,MUMBAI,,1323,10,Offline,Returned,EMI,1
+ORD125,2024-9-1,Customer 125,MUMBAI,,,,Online,Pending,EMI,
+,2024-7-9,Customer 126,Delhi,,,1,Offline,Delivered,UPI,
+ORD127,2024-1-27,Customer 127,Pune,19747,,,Offline,Returned,Debit Card,
+ORD128,2024-12-8,Customer 128,MUMBAI,8358,,3,Online,Returned,Debit Card,
+ORD129,2024-6-9,Customer 129, pune,,,,Offline,Returned,Debit Card,
+ORD130,2024-12-8,Customer 130, pune,17506,,,Online,Pending,Credit Card,
+ORD131,2024-12-4,Customer 131,Hyderabad,,,,Partner,Cancelled,UPI,2
+ORD132,2024-6-11,, pune,,,,Offline,Cancelled,Debit Card,4
+,2024-7-18,Customer 133,Pune,,182,3,Offline,Pending,UPI,
+ORD134,2024-1-21,Customer 134,Pune,,,,Online,Cancelled,EMI,
+ORD135,2024-2-9,Customer 135,Pune,,,,Partner,Pending,UPI,5
+ORD136,2024-4-14,Customer 136,Mumbai,,3426,,Partner,Cancelled,COD,4
+ORD137,2024-10-1,Customer 137,Hyderabad,,-70,,Online,Delivered,COD,4
+ORD138,2024-8-4,Customer 138,Hyderabad,,,,Offline,Delivered,EMI,2
+ORD139,2024-1-1,Customer 139,MUMBAI,,,7,Partner,Cancelled,EMI,
+,2024-6-25,Customer 140,Hyderabad,,,9,Partner,Pending,Debit Card,
+ORD141,2024-4-16,Customer 141,MUMBAI,,,,Online,Delivered,Credit Card,3
+ORD142,2024-3-9,Customer 142,Delhi,,,,Online,Cancelled,COD,3
+ORD143,2024-4-7,,Pune,,3066,,Partner,Cancelled,EMI,2
+ORD144,2024-9-15,Customer 144,Bangalore,6917,3123,,Online,Delivered,Debit Card,4
+ORD145,2024-7-22,Customer 145,Mumbai,,,,Online,Cancelled,Debit Card,2
+ORD146,2024-5-7,Customer 146, pune,,4136,,Partner,Cancelled,Credit Card,4
+,2024-9-10,Customer 147,Pune,,,8,Offline,Delivered,EMI,3
+ORD148,2024-8-9,Customer 148,Hyderabad,2408,,3,Partner,Delivered,UPI,
+ORD149,2024-7-21,Customer 149,Hyderabad,,,,Online,Cancelled,Debit Card,
+ORD150,2024-9-5,Customer 150,MUMBAI,,3939,2,Partner,Pending,Debit Card,5
+ORD151,2024-10-8,Customer 151,Delhi,,,,Online,Pending,Credit Card,
+ORD152,2024-11-14,Customer 152,Bangalore,,,3,Partner,Delivered,Debit Card,
+ORD153,2024-1-16,Customer 153,Mumbai,,,4,Online,Delivered,Debit Card,
+,2024-8-7,,Mumbai,16949,,,Offline,Cancelled,COD,3
+ORD155,2024-11-19,Customer 155,MUMBAI,,,,Online,Cancelled,Credit Card,4
+ORD156,2024-1-19,Customer 156,Hyderabad,,1246,,Partner,Returned,Debit Card,3
+ORD157,2024-6-16,Customer 157,Pune,,,,Partner,Returned,COD,5
+ORD158,2024-10-18,Customer 158,MUMBAI,9602,,,Partner,Delivered,EMI,5
+ORD159,2024-2-2,Customer 159,Hyderabad,17852,,,Partner,Delivered,Credit Card,5
+ORD160,2024-2-16,Customer 160, pune,,,,Online,Cancelled,Credit Card,3
+,2024-4-5,Customer 161,Hyderabad,,,,Offline,Returned,Credit Card,
+ORD162,2024-5-20,Customer 162,Delhi,,,,Offline,Returned,EMI,
+ORD163,2024-10-3,Customer 163,Pune,,1389,,Partner,Returned,COD,2
+ORD164,2024-2-9,Customer 164, pune,16242,,5,Partner,Delivered,EMI,3
+ORD165,2024-6-10,,MUMBAI,17413,,,Online,Delivered,Credit Card,4
+ORD166,2024-12-6,Customer 166,Hyderabad,,,,Online,Cancelled,COD,1
+ORD167,2024-10-5,Customer 167,Hyderabad,17088,,8,Online,Returned,Debit Card,3
+,2024-10-24,Customer 168,Delhi,,-1924,8,Online,Returned,EMI,1
+ORD169,2024-1-8,Customer 169,MUMBAI,,4693,,Online,Cancelled,Debit Card,3
+ORD170,2024-4-16,Customer 170,Hyderabad,,,2,Partner,Cancelled,COD,
+ORD171,2024-10-10,Customer 171,Hyderabad,,,,Online,Delivered,EMI,
+ORD172,2024-10-28,Customer 172,Bangalore,,776,7,Partner,Pending,EMI,5
+ORD173,2024-11-18,Customer 173,Hyderabad,,,,Partner,Pending,COD,
+ORD174,2024-5-22,Customer 174,MUMBAI,,,,Offline,Returned,Credit Card,1
+,2024-10-25,Customer 175,Pune,,912,,Online,Pending,Credit Card,
+ORD176,2024-11-5,,Bangalore,14831,3258,6,Offline,Delivered,Credit Card,4
+ORD177,2024-1-11,Customer 177,Delhi,,4446,,Online,Returned,UPI,
+ORD178,2024-11-3,Customer 178,Mumbai,,,4,Partner,Cancelled,EMI,
+ORD179,2024-10-21,Customer 179,Delhi,,,,Online,Cancelled,Debit Card,2
+ORD180,2024-10-2,Customer 180,Hyderabad,,-161,,Online,Cancelled,Credit Card,
+ORD181,2024-12-12,Customer 181,Pune,,2078,3,Offline,Pending,EMI,3
+,2024-9-16,Customer 182,Delhi,,,,Offline,Pending,UPI,
+ORD183,2024-5-25,Customer 183,Pune,16618,2105,,Partner,Returned,Debit Card,3
+ORD184,2024-4-2,Customer 184,Pune,,2188,,Online,Delivered,COD,1
+ORD185,2024-11-2,Customer 185,Bangalore,1189,-1550,,Offline,Returned,UPI,5
+ORD186,2024-1-18,Customer 186,Mumbai,15866,,,Partner,Returned,COD,2
+ORD187,2024-4-13,,Pune,,,,Offline,Pending,UPI,1
+ORD188,2024-10-6,Customer 188,Hyderabad,3569,-212,,Online,Delivered,Credit Card,
+,2024-3-3,Customer 189,MUMBAI,15021,-109,,Online,Delivered,Debit Card,2
+ORD190,2024-4-22,Customer 190,Mumbai,4405,-343,2,Partner,Cancelled,Credit Card,
+ORD191,2024-5-17,Customer 191,Bangalore,,,5,Offline,Returned,Credit Card,4
+ORD192,2024-11-28,Customer 192,Hyderabad,,1166,7,Offline,Returned,COD,5
+ORD193,2024-11-4,Customer 193,Mumbai,,,,Offline,Pending,Debit Card,3
+ORD194,2024-6-11,Customer 194,Bangalore,,,,Online,Returned,EMI,2
+ORD195,2024-9-23,Customer 195, pune,5398,,3,Online,Delivered,EMI,3
+,2024-4-12,Customer 196, pune,10828,,5,Offline,Cancelled,EMI,3
+ORD197,2024-8-4,Customer 197,MUMBAI,,587,,Partner,Delivered,UPI,
+ORD198,2024-4-21,,Delhi,,,,Partner,Delivered,COD,4
+ORD199,2024-1-9,Customer 199,Hyderabad,7386,,,Offline,Cancelled,Credit Card,
+ORD200,2024-1-8,Customer 200,Delhi,19127,-400,3,Offline,Returned,COD,2
+ORD201,2024-4-3,Customer 201,Delhi,,,,Offline,Pending,EMI,5
+ORD202,2024-8-6,Customer 202,Hyderabad,12153,1547,5,Online,Cancelled,COD,
+,2024-4-1,Customer 203,Mumbai,,-494,6,Partner,Cancelled,COD,1
+ORD204,2024-8-21,Customer 204, pune,,805,,Partner,Delivered,COD,3
+ORD205,2024-8-18,Customer 205,Pune,,,6,Offline,Delivered,EMI,3
+ORD206,2024-11-24,Customer 206,Hyderabad,,,,Offline,Pending,UPI,3
+ORD207,2024-2-22,Customer 207, pune,11082,,,Offline,Returned,Credit Card,4
+ORD208,2024-7-1,Customer 208,Delhi,,382,,Offline,Cancelled,Credit Card,3
+ORD209,2024-11-24,,Hyderabad,,,,Online,Returned,COD,3
+,2024-2-13,Customer 210,Delhi,,,,Offline,Cancelled,Debit Card,
+ORD211,2024-4-2,Customer 211, pune,8613,4071,,Partner,Pending,EMI,4
+ORD212,2024-12-11,Customer 212,Hyderabad,,,7,Offline,Pending,COD,5
+ORD213,2024-10-12,Customer 213,Pune,,1586,,Online,Pending,Credit Card,2
+ORD214,2024-3-5,Customer 214,Bangalore,,,,Offline,Pending,UPI,5
+ORD215,2024-4-20,Customer 215,Pune,,,,Offline,Delivered,Credit Card,3
+ORD216,2024-3-6,Customer 216,Delhi,4813,,,Offline,Cancelled,EMI,
+,2024-7-15,Customer 217,Bangalore,,548,,Partner,Returned,EMI,
+ORD218,2024-4-10,Customer 218, pune,,,,Offline,Cancelled,EMI,4
+ORD219,2024-8-27,Customer 219,Hyderabad,,4842,1,Partner,Delivered,UPI,5
+ORD220,2024-7-5,,Bangalore,13514,,,Online,Cancelled,EMI,4
+ORD221,2024-8-13,Customer 221,Delhi,11929,,5,Online,Delivered,UPI,5
+ORD222,2024-4-15,Customer 222,MUMBAI,,,,Online,Pending,Credit Card,4
+ORD223,2024-8-11,Customer 223,Hyderabad,3646,,,Partner,Pending,EMI,2
+,2024-6-5,Customer 224,Delhi,,-415,,Partner,Cancelled,UPI,
+ORD225,2024-2-14,Customer 225,Pune,15363,,,Offline,Delivered,Debit Card,4
+ORD226,2024-12-15,Customer 226,Delhi,,,,Online,Delivered,Debit Card,2
+ORD227,2024-8-5,Customer 227,Bangalore,,,,Offline,Returned,EMI,3
+ORD228,2024-9-19,Customer 228,MUMBAI,,,,Online,Cancelled,COD,5
+ORD229,2024-4-28,Customer 229,Hyderabad,8538,,10,Offline,Pending,UPI,3
+ORD230,2024-6-12,Customer 230,Hyderabad,13896,,,Offline,Pending,COD,1
+,2024-7-21,,Delhi,7780,,,Online,Returned,UPI,4
+ORD232,2024-1-26,Customer 232,Delhi,,-745,,Online,Returned,COD,4
+ORD233,2024-7-11,Customer 233,Hyderabad,,-292,3,Partner,Cancelled,COD,1
+ORD234,2024-8-19,Customer 234,Hyderabad,,,,Partner,Returned,EMI,2
+ORD235,2024-1-12,Customer 235,MUMBAI,6206,,,Offline,Delivered,UPI,2
+ORD236,2024-9-16,Customer 236,Hyderabad,5178,,,Partner,Returned,UPI,4
+ORD237,2024-8-1,Customer 237,Hyderabad,15631,3890,,Online,Returned,UPI,3
+,2024-9-7,Customer 238,Pune,3969,,,Partner,Pending,Credit Card,2
+ORD239,2024-7-12,Customer 239, pune,,,,Online,Cancelled,UPI,2
+ORD240,2024-4-8,Customer 240,Pune,,,,Partner,Delivered,UPI,2
+ORD241,2024-9-1,Customer 241,Pune,,1403,,Partner,Returned,Debit Card,
+ORD242,2024-6-19,, pune,,1723,,Partner,Delivered,Credit Card,1
+ORD243,2024-4-21,Customer 243, pune,,-782,6,Online,Returned,UPI,4
+ORD244,2024-11-1,Customer 244,Bangalore,,1530,,Partner,Delivered,COD,5
+,2024-11-23,Customer 245,Bangalore,,,,Partner,Returned,Debit Card,1
+ORD246,2024-2-7,Customer 246,Hyderabad,12601,,2,Online,Delivered,UPI,5
+ORD247,2024-7-8,Customer 247,Pune,,3008,,Partner,Returned,Debit Card,
+ORD248,2024-1-22,Customer 248,Hyderabad,,,8,Offline,Returned,Debit Card,4
+ORD249,2024-9-2,Customer 249,Delhi,17332,,,Offline,Cancelled,Credit Card,5
+ORD250,2024-11-13,Customer 250,MUMBAI,,,,Partner,Cancelled,Credit Card,1
+ORD251,2024-2-5,Customer 251,Bangalore,,,,Online,Delivered,EMI,2
+,2024-8-28,Customer 252,Pune,,,,Offline,Cancelled,UPI,5
+ORD253,2024-4-25,,Delhi,,320,,Partner,Delivered,EMI,4
+ORD254,2024-2-4,Customer 254, pune,,,,Online,Pending,EMI,3
+ORD255,2024-10-28,Customer 255, pune,1931,-611,10,Online,Delivered,EMI,5
+ORD256,2024-5-25,Customer 256,MUMBAI,7070,2368,4,Online,Returned,EMI,4
+ORD257,2024-5-20,Customer 257,Mumbai,,4654,,Offline,Delivered,UPI,4
+ORD258,2024-10-10,Customer 258,MUMBAI,,1575,3,Partner,Delivered,Debit Card,
+,2024-7-12,Customer 259,Delhi,17265,-535,4,Offline,Delivered,Debit Card,3
+ORD260,2024-4-8,Customer 260,Delhi,,,7,Offline,Delivered,Debit Card,3
+ORD261,2024-5-25,Customer 261,MUMBAI,10040,4539,,Online,Pending,Debit Card,5
+ORD262,2024-1-5,Customer 262,Mumbai,,,,Online,Returned,UPI,2
+ORD263,2024-4-16,Customer 263,Hyderabad,4299,,,Partner,Pending,Debit Card,5
+ORD264,2024-7-27,,MUMBAI,,1270,7,Online,Returned,Debit Card,5
+ORD265,2024-7-21,Customer 265,Pune,,,,Offline,Delivered,Credit Card,
+,2024-3-18,Customer 266, pune,,,,Partner,Delivered,Credit Card,4
+ORD267,2024-5-25,Customer 267,Pune,9809,4578,,Offline,Delivered,Debit Card,5
+ORD268,2024-12-5,Customer 268,MUMBAI,,2030,9,Offline,Delivered,Debit Card,5
+ORD269,2024-2-8,Customer 269, pune,,,10,Offline,Delivered,UPI,1
+ORD270,2024-1-19,Customer 270,Delhi,,,,Offline,Returned,COD,
+ORD271,2024-6-17,Customer 271,Mumbai,,-94,,Offline,Returned,Credit Card,5
+ORD272,2024-1-22,Customer 272,Bangalore,,4430,3,Online,Delivered,Credit Card,4
+,2024-4-5,Customer 273,Mumbai,,,,Online,Cancelled,UPI,4
+ORD274,2024-4-13,Customer 274,MUMBAI,,546,,Partner,Pending,Credit Card,1
+ORD275,2024-2-3,,MUMBAI,8066,,,Online,Cancelled,Debit Card,4
+ORD276,2024-9-4,Customer 276,Mumbai,1008,521,,Offline,Returned,Credit Card,3
+ORD277,2024-5-10,Customer 277,Pune,1453,,1,Online,Returned,Debit Card,
+ORD278,2024-5-4,Customer 278,Mumbai,4139,-1754,,Partner,Delivered,Debit Card,
+ORD279,2024-1-18,Customer 279,Mumbai,16071,,1,Online,Delivered,UPI,
+,2024-3-11,Customer 280,Hyderabad,,,,Online,Returned,Credit Card,3
+ORD281,2024-9-13,Customer 281,MUMBAI,,,,Online,Cancelled,Debit Card,5
+ORD282,2024-7-5,Customer 282,Hyderabad,,,,Online,Cancelled,Credit Card,4
+ORD283,2024-1-14,Customer 283, pune,,,,Online,Cancelled,EMI,4
+ORD284,2024-9-13,Customer 284,Hyderabad,,-1637,,Partner,Pending,Credit Card,5
+ORD285,2024-1-19,Customer 285,Delhi,,,9,Online,Delivered,COD,4
+ORD286,2024-3-2,, pune,,-1879,2,Partner,Pending,Debit Card,2
+,2024-4-19,Customer 287,Bangalore,,1316,2,Offline,Pending,Debit Card,5
+ORD288,2024-11-12,Customer 288,Bangalore,19581,,,Offline,Pending,EMI,2
+ORD289,2024-7-20,Customer 289,MUMBAI,3981,,6,Online,Pending,EMI,4
+ORD290,2024-1-25,Customer 290,Bangalore,,3308,,Partner,Delivered,Credit Card,
+ORD291,2024-1-9,Customer 291,MUMBAI,,,6,Partner,Cancelled,Debit Card,
+ORD292,2024-5-23,Customer 292,Bangalore,,,,Offline,Delivered,Credit Card,3
+ORD293,2024-1-19,Customer 293,Pune,,,3,Offline,Delivered,COD,4
+,2024-6-13,Customer 294, pune,,,,Offline,Delivered,UPI,1
+ORD295,2024-1-9,Customer 295,Pune,,,,Partner,Returned,UPI,4
+ORD296,2024-6-8,Customer 296,MUMBAI,,,1,Offline,Cancelled,Debit Card,2
+ORD297,2024-3-8,,Pune,13443,,,Partner,Cancelled,UPI,
+ORD298,2024-7-8,Customer 298,MUMBAI,,,4,Partner,Pending,Debit Card,4
+ORD299,2024-9-14,Customer 299,Delhi,,2626,,Partner,Pending,COD,4
+ORD300,2024-3-27,Customer 300,Hyderabad,,,10,Offline,Pending,Debit Card,3
