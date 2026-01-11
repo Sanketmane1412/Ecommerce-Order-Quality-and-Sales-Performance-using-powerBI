@@ -1,1 +1,7 @@
-# Ecommerce-Order-Quality-and-Sales-Performance-using-powerBI
+This project is an E-Commerce Order Quality and Sales Performance Dashboard made with Power BI Desktop. It analyzes sales data and examines order behavior, profitability, and customer trends. The main goal was to take raw, unclean data and turn it into useful insights that support business decisions.
+
+In this dashboard, I looked at key metrics such as total orders, total sales amount, total profit, average sales value, and average customer rating to provide an overview of business performance. I also analyzed order statuses (Delivered, Pending, Cancelled, Returned) to see how different outcomes affect overall profitability. The dashboard highlights profit trends based on quantity, showing whether higher quantities always lead to increased profit.
+
+I included analysis of payment methods to understand customer payment preferences and their effect on order volume. I added city-level insights to compare customer ratings and order distribution across different locations. Interactive slicers for month and city enable users to explore specific trends easily.
+
+While working on this project, I gained practical experience in data cleaning using Power Query. I dealt with missing and inconsistent data, created calculated columns, and designed important KPIs. This project taught me how Power BI can be applied in real-world e-commerce settings to identify unprofitable orders, customer satisfaction issues, and areas for operational improvement. The skills I learned are directly relevant to Data Analyst and Business Intelligence roles.
